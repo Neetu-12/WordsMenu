@@ -1,0 +1,21 @@
+.cardContainer{
+    box-shadow: 5px 5px 15px 5px #88888881;
+    width: 20vw;
+    padding: 10px;
+    border-radius: 10px;
+}
+.maggiImg{
+    width: 20vw;
+}
+.mapPropsRotation{
+    display: grid;
+    grid-template-columns: 33vw 33vw 33vw;
+    width: 100%;
+    margin: 20px;
+    padding: 10px;
+}
+.mainCardContainer{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
